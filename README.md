@@ -17,5 +17,8 @@ Unity VR Development
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 videos:
+
 https://www.youtube.com/watch?v=4TaYKM_6XqI
+
+https://youtu.be/qepfFvXlcjc
 
