@@ -18,7 +18,9 @@ Unity VR Development
 ---------------------------------------------------------------------------------------------------------------------------------------
 videos:
 
-https://www.youtube.com/watch?v=4TaYKM_6XqI
+https://youtu.be/4TaYKM_6XqI : Unity Essentials + Junior Programmer + Creative Core 
 
-https://youtu.be/qepfFvXlcjc
+https://youtu.be/qepfFvXlcjc : UntiyAR Foundation
+
+: Unity VR Development
 
